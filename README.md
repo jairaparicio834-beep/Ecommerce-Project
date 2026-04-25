@@ -1,7 +1,7 @@
 # Eccomerce Website
 
 
-Developed and deployes a user friendly eccomerce website where users can view and purchase items of their choice, and at their choosing price.
+Developed and deployes a user friendly eccomerce website where users can view and purchase items of their choice, and at their price of choice.
 
 
 # Install Package
